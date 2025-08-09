@@ -1,5 +1,10 @@
-## Hi there 👋
+## Austin Glover
 
+Hi, I’m Austin Glover (aka Lex Guthex in my Dungeons & Dragons circles) — a passionate beginner in the world of coding. I’m focused on building tools, utilities, and experiences for tabletop RPGs, along with functional applications that solve real problems. I’m committed to learning, experimenting, and growing my skills with each project.
+
+Current Projects:
+- 🌱 Learning more advanced Python concepts
+- 🔭 Maintaining and improving my first Python program, Roll Initiative
 <!--
 **LexGuthex/LexGuthex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
