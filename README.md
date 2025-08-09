@@ -5,8 +5,6 @@ Hi, I’m Austin Glover (aka Lex Guthex in my Dungeons & Dragons circles) — a 
 Current Projects:
 - 🌱 Learning more advanced Python concepts
 - 🔭 Maintaining and improving my first Python program, Roll Initiative
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--
 **LexGuthex/LexGuthex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
